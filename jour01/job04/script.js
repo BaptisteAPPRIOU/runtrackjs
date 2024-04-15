@@ -5,10 +5,9 @@ function bissextile(year) {
         return false;
     }
 }
-
-const year = prompt("Entrez une annee : ");
+const year = prompt("Entrez une année : ");
 if (bissextile(year)) {
-    console.log(year + " est une annee bissextile");
+    console.log(year + " est une année bissextile");
 } else {
-    console.log(year + " n'est pas une annee bissextile");
+    console.log(year + " n'est pas une année bissextile");
 }
