@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nom": "Doe",
+        "prenom": "John",
+        "email": "johndoe@example.com"
+    },
+    {
+        "id": 2,
+        "nom": "Smith",
+        "prenom": "Jane",
+        "email": "janesmith@example.com"
+    },
+    {
+        "id": 3,
+        "nom": "Johnson",
+        "prenom": "Michael",
+        "email": "michaeljohnson@example.com"
+    },
+    {
+        "id": 4,
+        "nom": "Williams",
+        "prenom": "Maria",
+        "email": "azazeazeazeaz@ievienvea.com"
+    },
+    {
+        "id": 5,
+        "nom": "Brown",
+        "prenom": "David",
+        "email": "davidbrown@example.com"
+    },
+    {
+        "id": 6,
+        "nom": "Taylor",
+        "prenom": "Olivia",
+        "email": "oliviataylor@example.com"
+    }
+]
